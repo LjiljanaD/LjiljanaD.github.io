@@ -1,0 +1,50 @@
+#programms {
+   text-align: center;
+}
+.boxes {
+   width: 100%;
+   margin: 0;
+   padding: 0;
+}
+.box {
+   width: 23%;
+   margin-left: 1%;
+   margin-right: 1%;
+   float: left;
+   text-align: center;
+}
+.box img {
+   width: 90%;
+}
+h3 {
+   padding:0;
+   margin-top: 0;
+   margin-bottom: 25px;
+}
+#prva_pomoc {
+   overflow: hidden;
+   width: 100%;
+}
+#prva_pomoc {
+   background-image: url('../images/bg_3.jpg');
+   width: 100%;
+   height: 500px;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#button_2 {
+   width: 100%;
+   text-decoration: none;
+   text-align: center;
+   padding: 15px 10px 15px 10px;
+   display: block;
+   color: white;
+   background-color: #02457c;
+}
+#button_2_position {
+   margin-left: 40%;
+   margin-right: 40%;
+   margin-top: 215px;
+}
